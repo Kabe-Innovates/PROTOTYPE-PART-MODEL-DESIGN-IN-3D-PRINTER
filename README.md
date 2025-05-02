@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### NAME : **KABELAN G K**
+### REG NO : **212224110027**
+## Rendered Output
+![alt text](<DUSTER v2.png>)
+## Fusion 360 
+![alt text](Fusion360.png)
+## Ultimate Cura
+![alt text](image.png)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
