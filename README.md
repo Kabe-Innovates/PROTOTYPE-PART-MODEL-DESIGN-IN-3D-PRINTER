@@ -54,7 +54,7 @@
 ## Fusion 360 
 ![alt text](Fusion360.png)
 ## Ultimate Cura
-![alt text](image.png)
+![alt text](UltimateCura.png)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
